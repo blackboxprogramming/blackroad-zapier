@@ -1,0 +1,39 @@
+{
+  "name": "blackroad-zapier",
+  "version": "1.0.0",
+  "description": "Official BlackRoad Zapier integration — connect BlackRoad deployments, analytics, and Stripe payments to 5,000+ apps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "zapier test",
+    "push": "zapier push",
+    "validate": "zapier validate"
+  },
+  "keywords": [
+    "zapier",
+    "blackroad",
+    "deployment",
+    "analytics",
+    "stripe",
+    "automation",
+    "integration"
+  ],
+  "author": "BlackRoad OS, Inc. <blackroad.systems@gmail.com>",
+  "license": "SEE LICENSE IN LICENSE",
+  "homepage": "https://github.com/blackboxprogramming/blackroad-zapier#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blackboxprogramming/blackroad-zapier.git"
+  },
+  "bugs": {
+    "url": "https://github.com/blackboxprogramming/blackroad-zapier/issues"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "zapier-platform-core": "^15.0.0"
+  },
+  "devDependencies": {
+    "zapier-platform-cli": "^15.0.0"
+  }
+}
