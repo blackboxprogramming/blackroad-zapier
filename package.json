@@ -34,6 +34,6 @@
     "zapier-platform-core": "^15.0.0"
   },
   "devDependencies": {
-    "zapier-platform-cli": "^15.0.0"
+    "zapier-platform-cli": "^18.2.2"
   }
 }
