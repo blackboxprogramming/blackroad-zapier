@@ -31,7 +31,7 @@
     "node": ">=18.0.0"
   },
   "dependencies": {
-    "zapier-platform-core": "^15.0.0"
+    "zapier-platform-core": "^18.2.2"
   },
   "devDependencies": {
     "zapier-platform-cli": "^15.0.0"
